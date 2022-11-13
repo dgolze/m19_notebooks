@@ -3,6 +3,5 @@ numpy==1.18.5
 mkl-devel
 seaborn
 sklearn
-gfortran
 libblas-dev 
 liblapack-dev
