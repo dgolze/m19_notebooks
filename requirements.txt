@@ -4,3 +4,6 @@ mkl-devel
 seaborn
 sklearn
 pandas
+gfortran 
+libblas-dev 
+liblapack-dev
