@@ -2,8 +2,5 @@ matplotlib
 numpy
 mkl-devel
 seaborn
-gfortran
 pandas
 sklearn
-libblas-dev 
-liblapack-dev
