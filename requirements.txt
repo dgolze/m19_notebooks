@@ -1,6 +1,2 @@
-matplotlib
-numpy
-mkl-devel
-seaborn
-pandas
-sklearn
+matplotlib==3.2.1
+numpy==1.18.5
