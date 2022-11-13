@@ -1,7 +1,10 @@
-matplotlib==3.2.1
-numpy==1.18.5
+python==3.9
+matplotlib
+numpy
 mkl-devel
 seaborn
+gfortran
+pandas
 sklearn
 libblas-dev 
 liblapack-dev
