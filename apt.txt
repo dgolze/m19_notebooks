@@ -2,3 +2,5 @@ gfortran
 libblas-dev 
 liblapack-dev
 nvidia-cuda-toolkit
+cuda
+
