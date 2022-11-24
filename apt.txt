@@ -2,5 +2,4 @@ gfortran
 libblas-dev 
 liblapack-dev
 nvidia-cuda-toolkit
-cuda
-
+nvidia-kernel-source-460
